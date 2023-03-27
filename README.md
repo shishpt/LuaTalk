@@ -31,6 +31,7 @@ A text editor built from LUA with an explained file structure with keymappings, 
     - Install
     - Config
     - Plugins
+
 ****Assistance During Workshop****
 - Virtual Machine
   - Windows
