@@ -23,6 +23,7 @@ A text editor built from LUA with an explained file structure with keymappings, 
  2. Hands off Mouse
  3. Extremely Customizable
  4. Modes of Vim
+ 5. General overview of LUA
 
 ****Why Do We Need/Use NeoVim****
 ****CodeBase To Follow Along****
