@@ -2,13 +2,14 @@
 
 #### Student Name: ****Shishir Patel****
 
-#### Subject: ****Neovim As a Text/Code Editor****
+#### Subject: ****Let's learn LUA****
 
 #### Main Sources:
 [https://neovim.io](Neovim)
+[http://lua.org](LUA)
 
 #### Build
-I plan to build out a text editor using LUA and populating it with plugins from the Vim community to show a working version of a text editor that can be used to develop apps and websites that can replace VSCode.
+Using LUA to build out a basic IDE and populate with plugins from the NVim community to show a working version of a text editor that can be used to develop apps and websites that can act as a replacement to VSCode.
 
 | ****DESIGN****   | ****CODE****    |
 |--------------- | --------------- |
@@ -18,6 +19,8 @@ I plan to build out a text editor using LUA and populating it with plugins from 
 A text editor built from LUA with an explained file structure with keymappings, plugins and configuration.
 
 #### Plan
+****What is LUA****
+
 ****What is NeoVim****
  1. Based on Vim
  2. Hands off Mouse
@@ -38,3 +41,8 @@ A text editor built from LUA with an explained file structure with keymappings, 
   - Windows
   - Arch Linux
 
+***Problem Statment****
+
+****MVP****
+ 1. Syntax Highlighting
+ 2.
