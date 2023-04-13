@@ -20,6 +20,9 @@ A text editor built from LUA with an explained file structure with keymappings, 
 
 #### Plan
 ****What is LUA****
+ 1. History
+ 2. Useage
+ 3. Comparisons
 
 ****What is NeoVim****
  1. Based on Vim
