@@ -21,6 +21,21 @@ A text editor built from LUA with an explained file structure with keymappings, 
 #### Plan
 ****What is LUA****
  1. History
+ Built in 1993 is a high level procedural language meaning it doesnt have things like Object Oriented Programming but it can be simulated.  Today LUA is used in games like Roblox, WoW or games built in C or C++.
+    Where is it used?
+        Applications
+            - Awesome Window Manager
+            - Apache HTTP Server
+            - Adobe Photoshop Lightroom
+            - VLC Media Player
+        Games
+            - Angry Birds
+            - Dark Souls
+            - Fable 3
+            - Mafia 2
+            - Roblox
+            - Sims 2
+            - WoW
  2. Useage
  3. Comparisons
 
