@@ -7,40 +7,48 @@
 #### Main Sources:
 [neovim](https://neovim.io)
 [LUA](https://lua.org)
+[LuaRocks](https://luarocks.org)
 
-#### Build
-Using LUA to build out a basic IDE and populate with plugins from the NVim community to show a working version of a text editor that can be used to develop apps and websites that can act as a replacement to VSCode.
+#### Overview
+Basic overview of LUA (where it is used, how it is used).
+
 
 | ****DESIGN****   | ****CODE****    |
 |--------------- | --------------- |
 | 10%   | 90%   |
 
-#### Minimal Viable Product
-A text editor built from LUA with an explained file structure with keymappings, plugins and configuration.
 
-#### Plan
-****What is LUA****
+### Plan
+***What is LUA***
  1. History
  2. Useage
  3. Comparisons
 
-****What is NeoVim****
- 1. Based on Vim
+***What is Vim/NeoVim***
+ 1. Vim
  2. Hands off Mouse
  3. Extremely Customizable
  4. Modes of Vim
 
-****Why Do We Need/Use NeoVim****
-****CodeBase To Follow Along****
+***CodeBase To Follow Along***
 - Github
   - Branches
     - Install
     - Config
     - Plugins
+
+****Web Development****
+    - Plans to build for web
+    - Web Server
+    - Framework
+    - Database
+        - Luasql-mysql
+    - Package Manager
+
 ****Assistance During Workshop****
-- Virtual Machine
-  - Windows
-  - Arch Linux
+    - Virtual Machine
+    - Windows
+    - Arch Linux
 
 ***Problem Statment****
 
