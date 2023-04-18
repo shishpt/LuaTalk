@@ -5,8 +5,8 @@
 #### Subject: ****Let's learn LUA****
 
 #### Main Sources:
-[https://neovim.io](Neovim)
-[http://lua.org](LUA)
+[neovim](https://neovim.io)
+[LUA](https://lua.org)
 
 #### Build
 Using LUA to build out a basic IDE and populate with plugins from the NVim community to show a working version of a text editor that can be used to develop apps and websites that can act as a replacement to VSCode.
