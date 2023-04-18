@@ -29,6 +29,7 @@ Basic overview of LUA (where it is used, how it is used).
  2. Hands off Mouse
  3. Extremely Customizable
  4. Modes of Vim
+ 5. General overview of LUA
 
 ***CodeBase To Follow Along***
 - Github
@@ -36,14 +37,6 @@ Basic overview of LUA (where it is used, how it is used).
     - Install
     - Config
     - Plugins
-
-****Web Development****
-    - Plans to build for web
-    - Web Server
-    - Framework
-    - Database
-        - Luasql-mysql
-    - Package Manager
 
 ****Assistance During Workshop****
     - Virtual Machine
@@ -55,3 +48,11 @@ Basic overview of LUA (where it is used, how it is used).
 ****MVP****
  1. Syntax Highlighting
  2.
+ 
+****Web Development****
+    - Plans to build for web
+    - Web Server
+    - Framework
+    - Database
+        - Luasql-mysql
+    - Package Manager
