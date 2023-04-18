@@ -7,6 +7,7 @@
 #### Main Sources:
 [neovim](https://neovim.io)
 [LUA](https://lua.org)
+[https://luarocks.org/#quick-start](LuaRocks) 
 
 #### Build
 Using LUA to build out a basic IDE and populate with plugins from the NVim community to show a working version of a text editor that can be used to develop apps and websites that can act as a replacement to VSCode.
@@ -44,6 +45,10 @@ A text editor built from LUA with an explained file structure with keymappings, 
         Functions
         Package Manager (Orbit)
         Framework (Sailor)
+**** Can it be used for the web? ****
+ 1. Package Manager (LuaRocks)
+ 2. Framework
+
 
 ****What is NeoVim****
  1. Based on Vim
