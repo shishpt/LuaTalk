@@ -37,7 +37,13 @@ A text editor built from LUA with an explained file structure with keymappings, 
             - Sims 2
             - WoW
  2. Useage
+
  3. Comparisons
+        Terniary Operator
+        Arrays
+        Functions
+        Package Manager (Orbit)
+        Framework (Sailor)
 
 ****What is NeoVim****
  1. Based on Vim
