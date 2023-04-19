@@ -5,7 +5,8 @@
 #### Subject: ****Let's learn LUA****
 
 #### Overview
-Basic overview of LUA (where it is used, how it is used).
+1. Basic overview of LUA (where it is used, how it is used).
+2. Comparisions to JavaScript
 
 
 | ****DESIGN****   | ****CODE****    |
@@ -52,13 +53,15 @@ Basic overview of LUA (where it is used, how it is used).
  5. General overview of LUA
 
 ***CodeBase To Follow Along***
-- Github
-  - Branches
-    - Rock Paper Scissor
-    - Variable declaration
-    - Player Logic
-    - Scoring Logic
-    - Game Logic
+    - Github
+        - Branches
+            - Rock Paper Scissor
+                - Variable declaration
+                - Player Logic
+                - Scoring Logic
+                - Game Logic
+            - Web FrameWork
+                - 
 
 ****Assistance During Workshop****
     - Virtual Machine
@@ -82,7 +85,7 @@ Basic overview of LUA (where it is used, how it is used).
 #### Main Sources:
 [neovim](https://neovim.io)
 [LUA](https://lua.org)
-[https://luarocks.org/#quick-start](LuaRocks) 
+[LuaRocks](https://luarocks.org/#quick-start) 
 [LuaRocks](https://luarocks.org)
 
 
