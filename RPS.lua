@@ -54,28 +54,28 @@ if userSelection == "rock" or userSelection == "r" or userSelection == "paper" o
   for i = 1,5 do
     print(                            )--add spacing so everything that was printed isn't so cluttered
     end
-    if aiSelection == "rock" and userSelection == "rock" or userSelection == "r" then  --logic for gameplay
+    if aiSelection == "rock" and userSelection == "rock" then  --logic for gameplay
         print("Tie...")
-          elseif aiSelection == "paper" and userSelection == "paper" or userSelection == "p" then
+          elseif aiSelection == "paper" and userSelection == "paper" then
         print("Tie...")  --print who won
-            elseif aiSelection == "scissors" and userSelection == "scissors" or userSelection == "s" then
+            elseif aiSelection == "scissors" and userSelection == "scissors" then
         print("Tie...")  --print who won
-                    elseif aiSelection == "scissors" and userSelection == "rock" or userSelection == "r" then
+                    elseif aiSelection == "scissors" and userSelection == "rock" then
         print("You win!")  --print who won
         usrPnts = usrPnts + 1 --update player's score
-                    elseif aiSelection == "rock" and userSelection == "paper" or userSelection == "p" then
+                    elseif aiSelection == "rock" and userSelection == "paper" then
         print("You win!")  --print who won
         usrPnts = usrPnts + 1 --update player's score
-                    elseif aiSelection == "paper" and userSelection == "scissors" or userSelection == "s" then
+                    elseif aiSelection == "paper" and userSelection == "scissors" then
         print("You win!")  --print who won
         usrPnts = usrPnts + 1 --update player's score
-                    elseif aiSelection == "scissors" and userSelection == "paper" or userSelection == "p" then
+                    elseif aiSelection == "scissors" and userSelection == "paper" then
         print("Computer wins!")  --print who won
         aiPnts = aiPnts + 1 --update program's score
-                    elseif aiSelection == "paper" and userSelection == "rock" or userSelection == "r" then
+                    elseif aiSelection == "paper" and userSelection == "rock" then
         print("Computer wins!")  --print who won
         aiPnts = aiPnts + 1 --update program's score
-                    elseif aiSelection == "rock" and userSelection == "scissors" or userSelection == "s" then
+                    elseif aiSelection == "rock" and userSelection == "scissors" then
         print("Computer wins!")  --print who won
         aiPnts = aiPnts + 1 --update program's score
                     end        
