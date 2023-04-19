@@ -4,17 +4,8 @@
 
 #### Subject: ****Let's learn LUA****
 
-#### Main Sources:
-[neovim](https://neovim.io)
-[LUA](https://lua.org)
-<<<<<<< HEAD
-[https://luarocks.org/#quick-start](LuaRocks) 
-=======
-[LuaRocks](https://luarocks.org)
-
 #### Overview
 Basic overview of LUA (where it is used, how it is used).
->>>>>>> refs/remotes/origin/main
 
 
 | ****DESIGN****   | ****CODE****    |
@@ -63,9 +54,11 @@ Basic overview of LUA (where it is used, how it is used).
 ***CodeBase To Follow Along***
 - Github
   - Branches
-    - Install
-    - Config
-    - Plugins
+    - Rock Paper Scissor
+    - Variable declaration
+    - Player Logic
+    - Scoring Logic
+    - Game Logic
 
 ****Assistance During Workshop****
     - Virtual Machine
@@ -74,9 +67,9 @@ Basic overview of LUA (where it is used, how it is used).
 
 ***Problem Statment****
 
-****MVP****
- 1. Syntax Highlighting
- 2.
+****MVP (Workshop)****
+ 1. Rock Paper Scissor
+ 2. Neovim from server
  
 ****Web Development****
     - Plans to build for web
@@ -85,3 +78,11 @@ Basic overview of LUA (where it is used, how it is used).
     - Database
         - Luasql-mysql
     - Package Manager
+
+#### Main Sources:
+[neovim](https://neovim.io)
+[LUA](https://lua.org)
+[https://luarocks.org/#quick-start](LuaRocks) 
+[LuaRocks](https://luarocks.org)
+
+
