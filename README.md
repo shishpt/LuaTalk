@@ -1,10 +1,10 @@
 # RESEARCH PLAN FOR MODULE 7
 
-#### Student Name: ****Shishir Patel****
+## Student Name: **Shishir Patel**
 
-#### Subject: ****Let's learn LUA****
+## Subject: **Let's learn LUA**
 
-#### Overview
+### Overview
 1. Basic overview of LUA (where it is used, how it is used).
 2. Comparisions to JavaScript
 
@@ -15,7 +15,7 @@
 
 
 ### Plan
-***What is LUA***
+#### What is LUA
  1. History
  Built in 1993 is a high level procedural language meaning it doesnt have things like Object Oriented Programming but it can be simulated.  Today LUA is used in games like Roblox, WoW or games built in C or C++.
     Where is it used?
@@ -41,19 +41,19 @@
         Functions
         Package Manager (Orbit)
         Framework (Sailor)
-**** Can it be used for the web? ****
+#### Can it be used for the web?
  1. Package Manager (LuaRocks)
  2. Framework
 
 
-***What is Vim/NeoVim***
+#### What is Vim/NeoVim
  1. Vim
  2. Hands off Mouse
  3. Extremely Customizable
  4. Modes of Vim
  5. General overview of LUA
 
-***CodeBase To Follow Along***
+#### CodeBase To Follow Along
     - Github
         - Branches
             - Rock Paper Scissor
@@ -63,13 +63,6 @@
                 - Game Logic
             - Web FrameWork
                 - 
-
-****Assistance During Workshop****
-    - Virtual Machine
-    - Windows
-    - Arch Linux
-
-***Problem Statment****
 
 ****MVP (Workshop)****
  1. Rock Paper Scissor
