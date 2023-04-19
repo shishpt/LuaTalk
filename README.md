@@ -32,8 +32,9 @@
             - Roblox
             - Sims 2
             - WoW
- 2. Useage
+---
 
+ 2. Useage
  3. Comparisons
         Terniary Operator
         Arrays
