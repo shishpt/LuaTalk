@@ -13,7 +13,7 @@
 |--------------- | --------------- |
 | 10%   | 90%   |
 
-
+---
 ### Plan
 #### What is LUA
  1. History
@@ -32,10 +32,8 @@
             - Roblox
             - Sims 2
             - WoW
----
 
  2. Useage
- 3. Comparisons
         Terniary Operator
         Arrays
         Functions
@@ -64,11 +62,11 @@
             - Web FrameWork
                 - 
 
-****MVP (Workshop)****
+#### MVP (Workshop)
  1. Rock Paper Scissor
  2. Neovim from server
  
-****Web Development****
+#### Web Development
     - Plans to build for web
     - Web Server
     - Framework
