@@ -9,7 +9,7 @@
 2. Comparisions to JavaScript
 
 
-| ****DESIGN****   | ****CODE****    |
+| **DESIGN**   | ****CODE****    |
 |--------------- | --------------- |
 | 10%   | 90%   |
 
