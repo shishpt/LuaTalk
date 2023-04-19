@@ -20,19 +20,18 @@
  Built in 1993 is a high level procedural language meaning it doesnt have things like Object Oriented Programming but it can be simulated.  Today LUA is used in games like Roblox, WoW or games built in C or C++.
     Where is it used?
         Applications
-        <ul>
-        <li>Awesome Window Manager</li>
+        <ul><li>Awesome Window Manager</li>
         <li>Apache HTTP Server</li>
         <li>Adobe Photoshop Lightroom</li>
-        <li>VLC Media Player</li>
+        <li>VLC Media Player</li></ul>
         Games
-            - Angry Birds
-            - Dark Souls
-            - Fable 3
-            - Mafia 2
-            - Roblox
-            - Sims 2
-            - WoW
+        <ul><li>Angry Birds</li>
+        <li>Dark Souls</li>
+        <li>Fable 3</li>
+        <li>Mafia 2</li>
+        <li>Roblox</li>
+        <li>Sims 2</li>
+        <li>WoW</li></ul>
 
  2. Useage
         Terniary Operator
