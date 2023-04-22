@@ -1,0 +1,20 @@
+{
+    "workspace.library": [
+        "/Users/shishpt/.config/nvim",
+        "/Users/shishpt/.local/share/nvim/site",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/lualine.nvim",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/mason-lspconfig.nvim",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/mason.nvim",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/nvim-lspconfig",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/nvim-tree.lua",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/nvim-treesitter",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/nvim-web-devicons",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/oxocarbon.nvim",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/Users/shishpt/.local/share/nvim/site/pack/packer/start/telescope.nvim",
+        "/opt/homebrew/Cellar/neovim/0.9.0/share/nvim/runtime",
+        "/opt/homebrew/Cellar/neovim/0.9.0/lib/nvim",
+        "${3rd}/luassert/library"
+    ]
+}
