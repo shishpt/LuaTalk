@@ -71,9 +71,8 @@
     - Package Manager
 
 #### Main Sources:
-[neovim](https://neovim.io)
-[LUA](https://lua.org)
-[LuaRocks](https://luarocks.org/#quick-start) 
-[LuaRocks](https://luarocks.org)
+- [LUA](https://lua.org) (Language)
+- [neovim](https://neovim.io) (IDE)
+ -[LuaRocks](https://luarocks.org) (Package Manager)
 
 
