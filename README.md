@@ -73,6 +73,6 @@
 #### Main Sources:
 - [LUA](https://lua.org) (Language)
 - [neovim](https://neovim.io) (IDE)
- -[LuaRocks](https://luarocks.org) (Package Manager)
+- [LuaRocks](https://luarocks.org) (Package Manager)
 
 
