@@ -74,5 +74,5 @@
 - [LUA](https://lua.org) (Language)
 - [neovim](https://neovim.io) (IDE)
 - [LuaRocks](https://luarocks.org) (Package Manager)
-
+- [Lapsis](https://leafo.net/lapis/) (Web Framework)
 
