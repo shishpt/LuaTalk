@@ -37,8 +37,8 @@
 
 #### Can it be used for the web?
  1. Package Manager (LuaRocks)
- 2. Framework
-
+ 2. Framework (Lapsis)
+ 3. Webserver (OpenResty)
 
 #### What is Vim/NeoVim
  1. Vim
