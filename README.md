@@ -4,14 +4,10 @@
 
 ## Subject: **Let's learn LUA**
 
-### Overview
-1. Basic overview of LUA (where it is used, how it is used).
-2. Comparisions to JavaScript
-
 
 | **DESIGN**   | ****CODE****    |
 |--------------- | --------------- |
-| 10%   | 90%   |
+| 0%   | 1000% (Because its in a terminal)   |
 
 ---
 ### Plan
@@ -32,17 +28,24 @@
         <li>Roblox</li>
         <li>Sims 2</li>
         <li>WoW</li></ul>
+ 
+ 2. LUA vs JS
+     <li>Type of language</li>
+     <li>Interpreter</li>
+     <li>Learning curve</li>
+     <li>Performance</li>
+     <li>Array indexing</li>
+     <li></li>
+ 3. Specificities
+        <li>Terniary Operator</li>
+        <li>Tables</li>
+        <li>Functions</li>
+         <li>Global/Local</li>
 
- 2. Useage
-        Terniary Operator
-        Arrays
-        Functions
-        Package Manager (Orbit)
-        Framework (Sailor)
 #### Can it be used for the web?
  1. Package Manager (LuaRocks)
- 2. Framework
-
+ 2. Framework (Lapsis)
+ 3. Webserver (OpenResty)
 
 #### What is Vim/NeoVim
  1. Vim
@@ -54,30 +57,23 @@
 #### CodeBase To Follow Along
     - Github
         - Branches
-            - Rock Paper Scissor
+            - Guess the Number
                 - Variable declaration
                 - Player Logic
                 - Scoring Logic
                 - Game Logic
-            - Web FrameWork
-                - 
 
-#### MVP (Workshop)
+
+#### MVP & Workshop
  1. Rock Paper Scissor
- 2. Neovim from server
+ 2. Neovim
+ 3. Neovim from server (Workshop)
+ 4. Guess That Number (Workshop)
  
-#### Web Development
-    - Plans to build for web
-    - Web Server
-    - Framework
-    - Database
-        - Luasql-mysql
-    - Package Manager
 
 #### Main Sources:
-[neovim](https://neovim.io)
-[LUA](https://lua.org)
-[LuaRocks](https://luarocks.org/#quick-start) 
-[LuaRocks](https://luarocks.org)
-
+- [LUA](https://lua.org) (Language)
+- [neovim](https://neovim.io) (IDE)
+- [LuaRocks](https://luarocks.org) (Package Manager)
+- [Lapsis](https://leafo.net/lapis/) (Web Framework)
 
