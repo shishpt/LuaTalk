@@ -30,17 +30,16 @@
         <li>WoW</li></ul>
  
  2. LUA vs JS
-     <li>Type of language</li>
+     <ul><li>Type of language</li>
      <li>Interpreter</li>
      <li>Learning curve</li>
      <li>Performance</li>
-     <li>Array indexing</li>
-     <li></li>
+     <li>Array indexing</li></ul>
  3. Specificities
-        <li>Terniary Operator</li>
+        <ul><li>Terniary Operator</li>
         <li>Tables</li>
         <li>Functions</li>
-         <li>Global/Local</li>
+         <li>Global/Local</li></ul>
 
 #### Can it be used for the web?
  1. Package Manager (LuaRocks)
