@@ -4,10 +4,6 @@
 
 ## Subject: **Let's learn LUA**
 
-### Overview
-1. Basic overview of LUA (where it is used, how it is used).
-2. Comparisions to JavaScript
-
 
 | **DESIGN**   | ****CODE****    |
 |--------------- | --------------- |
@@ -33,12 +29,12 @@
         <li>Sims 2</li>
         <li>WoW</li></ul>
 
- 2. Useage
-        Terniary Operator
-        Arrays
-        Functions
-        Package Manager (Orbit)
-        Framework (Sailor)
+ 2. Specificities
+        <li>Terniary Operator</li>
+        <li>Tables</li>
+        <li>Functions</li>
+         <li>Global/Local</li>
+
 #### Can it be used for the web?
  1. Package Manager (LuaRocks)
  2. Framework
